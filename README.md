@@ -1,4 +1,4 @@
-# 🧠 UTS Praktikum Kecerdasan Buatan
+# UJIAN TENGAH SEMESTER PRAKTIKUM KECERDASAN BUATAN
 ### Implementasi Gaussian Naive Bayes & Kontrol Logika Fuzzy
 
 > **Ujian Tengah Semester — Mata Kuliah Kecerdasan Buatan**  
@@ -10,8 +10,8 @@
 |---|---|
 | **Nama** | Muhammad Rizky Dermawan |
 | **NPM** | 2410631170038 |
-| **Kelas** | 4B – Informatika |
-| **Program Studi** | Informatika — Fasilkom UNSIKA |
+| **Kelas** | 4B |
+| **Program Studi** | Informatika |
 | **Tahun** | 2026 |
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-## 🍷 Soal 1 — Klasifikasi Kualitas Wine (Gaussian Naive Bayes)
+## Soal 1 — Klasifikasi Kualitas Wine (Gaussian Naive Bayes)
 
 **Studi Kasus:** PT. Global Winery Indonesia ingin mengotomasi penilaian kualitas wine yang sebelumnya dilakukan secara manual oleh sommelier, menggunakan data hasil uji laboratorium fisikokimia.
 
@@ -63,11 +63,11 @@ Hitung Mean & Std → Prior → Gaussian PDF → Posterior → Prediksi
 | Chlorides | 0.034 | Sulphates | 0.4 |
 | Alcohol | 10.1 | | |
 
-> **Prediksi → ⚠️ BIASA (Kelas 0)** — Pasar Lokal
+> **Hasil Prediksi → BIASA (Kelas 0)** — Pasar Lokal
 
 ---
 
-## 🤖 Soal 2 — Kontrol Logika Fuzzy (Smart Bin Motor Stepper)
+## Soal 2 — Kontrol Logika Fuzzy (Smart Bin Motor Stepper)
 
 **Studi Kasus:** Tim AI & Robotic Fasilkom UNSIKA mengembangkan purwarupa Smart Bin yang memilah sampah secara otomatis ke ruang Organik / Anorganik / B3. Motor Stepper penggerak slider perlu dikontrol kecepatannya secara adaptif berdasarkan berat sampah agar tidak merusak mekanik.
 
@@ -122,7 +122,7 @@ python fuzzy_logic_smartbin.py
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-grey?logo=numpy)
@@ -132,5 +132,5 @@ python fuzzy_logic_smartbin.py
 ---
 
 <div align="center">
-  <sub>Program Studi Informatika · Fakultas Ilmu Komputer · Universitas Singaperbangsa Karawang · 2026</sub>
+  <sub>Muhammad Rizky Dermawan · Program Studi Informatika · Fakultas Ilmu Komputer · Universitas Singaperbangsa Karawang · 2026</sub>
 </div>
